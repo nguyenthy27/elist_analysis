@@ -4,9 +4,57 @@
   <img src="./Futur Tech.png">
 </p>
 
-# Client's Background
-FuturTech is a US-based e-commerce company established in 2018, selling consumer electronics and accessories, with customers across 192 countries through its website and mobile app. The company operates in an increasingly competitive electronics market, while the COVID-19 pandemic has brought both challenges and opportunities through shifts in consumer demand.
+# Company Background
+Established in 2018, FuturTech is a global e-commerce retailer specializing in electronic devices, including laptops, gaming monitors, and accessories. Serving students, working professionals, and gamers across 191 countries, the company offers premium products at competitive prices in an increasingly competitive electronics market.
 
-The available e-commerce dataset comprises over 108,000 transactions from approximately 88,000 customers. The data span multiple business dimensions and metrics, including product names, brands, regional performance, purchasing platforms, loyalty program participation, total sales revenue, and order volume.
+This analysis evaluates FuturTech’s sales performance from 2019 to 2022 using 108,000 records from 88,000 unique customers. It aims to identify key sales drivers and opportunities to sustain revenue growth after the pandemic. The analysis focuses on four areas:
+- **Overall Sales Trends**: Analyze Year-over-Year (YoY), Quarterly, and Month-over-Month performance to identify growth patterns and seasonality using total revenue, average order value (AOV) and number of sales. 
+- **Product and Brand Performance**: Evaluate product categories, brand contribution, and refund rates to guide portfolio expansion and inventory planning.
+ - **Loyalty Program Evaluation**: Assess the program’s effectiveness in driving customer retention, engagement, and repeat purchases.
+- **Regional Performance**: Identify underperforming markets and growth opportunities through targeted marketing and brand awareness campaigns.
 
-Reporting to the Head of Operations, this project evaluates FuturTech's business performance from 2019 to 2022 to support cross-functional teams including Sales, Marketing, and Operations to develop strategies for sustainable growth. 
+# Executive Summary 
+
+# Insight Deep-Dive 
+## Sale Performance 
+#### Year-over-Year (YoY) Analysis
+- **Historical benchmark (2019 - 2022)**: FuturTech generated an average of $7M in annual revenue, with 27K orders and an average AOV of $254.
+- **Strongest growth (2020)**: Revenue surged 163% and number of orders grew by 101% YoY, potentially driven by pandemic related shift toward ecommerce and work-from-home demand. 
+- **Sharpest decline (2022)**: Revenue fell 46%, following a 10% decline in 2021, potentially reflecting post-pandemic demand normalization and a return to in-store shopping. 
+
+#### Quarterly Performance Analysis 
+- **Q3 and Q4 were the strongest performing quarters**: Q3 generated the highest cumulative revenue ($7.5M) and order volume (28K+), while Q4 recorded the highest AOV ($265), potentially driven by holiday shopping demand (Black Friday, Cyber Monday, Christmas) 
+- **Quarterly sales patterns shift after 2020**: Q4 led in 2019-2020, while Q1 became the strongest quarter in 2021-2022, suggesting changing post-pandemic purchasing patterns.
+- **Q4 experienced a significant decline in 2022**: Revenue dropped 72% from $2.28M in 2021 to $649K in 2022.
+- **Q2 Slowdown**: Q2 underperformed highlighting an opportunity to stimulate mid-year demand through targeted promotions
+
+#### Month-over-Month (MoM) Analysis 
+- **Peak vs. Lowest Performance**: December 2020 peaked at $1.2M in revenue and 4K orders, compared to December 2022’s low of $262K and 1.1K orders.
+- **Revenue Growth and Decline**: March 2020 saw the highest MoM revenue increase (+50%), while October 2022 recorded the steepest drop (-55%).
+- **Seasonality**: September showed strong sales, followed by an October slowdown and a recovery in November and December.
+
+## Product Performance 
+- **Revenue Concentration**: The top three products are ASUS 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air, generating approximately 80% of total revenue, highlighting FuturTech’s reliance on a limited product portfolio.
+- **Product Demand & Revenue Opportunity**: The gaming monitor generates the highest revenue, AirPods the most orders, and MacBook Air the highest AOV. Samsung accessories rank among the popular products but contribute only 3% of revenue, presenting an opportunity to explore bundling and higher-value products.
+- **Product Sales Anomaly**: Apple iPhone was thought to be a popular product, but it contributes only 1% to total revenue, compared with AirPods (28%) and MacBook Air (22%). This unexpected gap needs further investigation. 
+- **Bose Headphones** was among the worst-performing products, with low sales volume and a 91% revenue decline. 
+- **Refund Risk**: MacBook Air and ThinkPad recorded refund rates of 11% and 12%, respectively, with approximately $1M in combined refund value, highlighting the need to investigate refund reasons and potential product quality issues.
+
+## Regional Performance 
+- **Revenue Concentration**: North America leads with $14M (52% of revenue), followed by EMEA at 29% with both regions accounting for 80% of total sales
+- **APAC Has High-Value Customers**: APAC has the highest AOV ($279),while Japan and India customers spend $130 and $36 more per order, respectively than US customers.
+- **LATAM is Underperforming**: The region ranks lowest across all sales metrics, presenting an opportunity for localized marketing, market research and competitive pricing to drive growth. 
+- **Key Markets**: 12 countries account for 80% of revenue, with the US leading at $13M and 50K orders 
+
+## Loyalty Program 
+- **Non-Loyalty Customers Spend More Overall**: Non-loyalty customers generated $17M in sales and spent $35 more per order on average ($275 vs. $240) 
+- **Higher Spending Among Loyalty Members After Mid-2021**: From July 2021 onward, loyalty members spent more per order than non-loyalty members, suggesting increased program adoption and engagement after its rollout in 2019. 
+
+
+# Recommendations 
+### Sales Performance 
+### Product Performance 
+### Regional Performance 
+### Loyalty Program 
+
+
