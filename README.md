@@ -1,7 +1,7 @@
 # <p align="center"> E-COMMERCE PERFORMANCE ANALYSIS </p>
 
 <p align="center">
-  <img src="./Futur Tech.png">
+ <img src="Futur Tech.png" width="100%" height="200">
 </p>
 
 # Company Background
@@ -34,6 +34,10 @@ This analysis evaluates FuturTech’s sales performance from 2019 to 2022 using 
 - **Seasonality**: September showed strong sales, followed by an October slowdown and a recovery in November and December.
 
 ## Product Performance 
+<p align="center">
+  <img src="images/product_pareto.png" alt="Product Pareto Chart" width="1000">
+</p>
+
 - **Revenue Concentration**: The top three products are ASUS 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air, generating approximately 80% of total revenue, highlighting FuturTech’s reliance on a limited product portfolio.
 - **Product Demand & Revenue Opportunity**: The gaming monitor generates the highest revenue, AirPods the most orders, and MacBook Air the highest AOV. Samsung accessories rank among the popular products but contribute only 3% of revenue, presenting an opportunity to explore bundling and higher-value products.
 - **Product Sales Anomaly**: Apple iPhone was thought to be a popular product, but it contributes only 1% to total revenue, compared with AirPods (28%) and MacBook Air (22%). This unexpected gap needs further investigation. 
@@ -47,6 +51,19 @@ This analysis evaluates FuturTech’s sales performance from 2019 to 2022 using 
 - **Key Markets**: 12 countries account for 80% of revenue, with the US leading at $13M and 50K orders 
 
 ## Loyalty Program 
+<table>
+  <tr>
+    <td align="center">
+      <strong>Loyalty Sales Trend</strong><br>
+      <img src="images/loyalty_sales_trend.png" width="100%">
+    </td>
+    <td align="center">
+      <strong>Loyalty AOV Trend</strong><br>
+      <img src="images/loyalty_aov_trends.png" width="100%">
+    </td>
+  </tr>
+</table>
+
 - **Non-Loyalty Customers Spend More Overall**: Non-loyalty customers generated $17M in sales and spent $35 more per order on average ($275 vs. $240) 
 - **Higher Spending Among Loyalty Members After Mid-2021**: From July 2021 onward, loyalty members spent more per order than non-loyalty members, suggesting increased program adoption and engagement after its rollout in 2019. 
 
