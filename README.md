@@ -40,9 +40,21 @@ This analysis evaluates FuturTech’s sales performance from 2019 to 2022 using 
 
 
 # Insight Deep-Dive 
-<p align="center">
-  <img src="images/MoM.png" alt="Product Pareto Chart" width="1000">
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="500">
+      <strong>YoY Revenue Performance</strong>
+      <img src="images/MoM.png" width="100%">
+    </td>
+    <td align="center" width="500">
+      <strong>Quarterly Revenue Performance</strong>
+      <img src="images/quarterly.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+
 ## Sale Performance 
 #### Year-over-Year (YoY) Analysis
 - **Historical benchmark (2019 - 2022)**: FuturTech generated an average of $7M in annual revenue, with 27K orders and an average AOV of $254.
