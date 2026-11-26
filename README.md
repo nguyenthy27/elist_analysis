@@ -44,11 +44,11 @@ This analysis evaluates FuturTech’s sales performance from 2019 to 2022 using 
 <table>
   <tr>
     <td align="center" width="500">
-      <strong>YoY Revenue Performance</strong>
+      <strong>2020 Was The Strongest Performance Year, Followed by a Slowdown in 2021 and a Significant Decline in 2022. </strong>
       <img src="images/YoY.png" width="750">
     </td>
     <td align="center" width="500">
-      <strong>Quarterly Revenue Performance</strong>
+      <strong>Q4 Led in 2019–2020, While Q1 Took the Lead in 2021–2022.</strong>
       <img src="images/quarterly.png" width="750">
     </td>
   </tr>
