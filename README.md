@@ -69,9 +69,43 @@ This analysis evaluates FuturTech’s sales performance from 2019 to 2022 using 
 
 
 # Recommendations 
-### Sales Performance 
-### Product Performance 
-### Regional Performance 
-### Loyalty Program 
+### Head of Operations 
+- **Optimize Inventory Planning for peak seasons Q3 and Q4 for top three performing products**
+  - Prioritize inventory planning for the top three revenue generating products: Asus 27in 4k gaming monitor, Apple Airpods, and Macbook Air, contribute 80% of total revenue 
+  - Q3 generated the highest quarterly revenue at $7.5M and over 28K orders, indicate strong demand during this period
+  - Q4 recorded the highest AOV at $265, highlighting an opportunity to promote premium products.
+    
+- **Investigate laptop refund issues to improve product quality and customer satisfaction**
+  - Macbook Air and ThinkPad recorded refund rates of 11% and 12% respectively, with $1M in combined refund value.
+  - Communicate with retailers to understand product-related return issues
+  - Conduct customer surveys to identify the main reasons behind returns.
+
+- **Expand Samsung’s Product Portfolio and Assortment** 
+  - Existing Brand Performance: Samsung charging cable packs and webcams generate 29K orders, making Samsung the second best-selling brand after Apple, but contribute only 3% of total revenue due to their low price points. 
+  - Expand into Higher-Value Products: Explore adding higher-value products such as laptops and foldable smartphones to build on existing demand and increase Samsung’s revenue contribution 
+  - Bundle existing best sellers: bundle popular Samsung accessories to encourage multi-product purchases and increase AOV.  
+
+- **Re-evaluate Bose and Apple Iphone** 
+  - Bose Headphones: Given their 91% revenue decline and low sales volume, review whether FuturTech should continue carrying Bose headphones
+  - Apple Iphone: Despite Apple’s strong overall brand performance, Iphone contributes only 1% of total revenue, compared with 28% from Airpods and 22% from Macbook Air. 
+  - Investigate reasons behind its low sales contribution and evaluate opportunities to improve Apple Iphone positioning.
+
+
+### Sales Team 
+- **Investigate the significant revenue decline in December 2022.**
+  - December 2022 revenue dropped to $262K, compared with $1.2M in December 2020
+- **Conduct Market Research for Samsung Expansion**
+  - Identify key markets for Samsung sales for the Marketing team to make regional campaigns and promotions. 
+- **Targeted APAC region for premium products**
+  - APAC recorded the highest AOV at $279, with Japan and India customers spending $130 and $30 more per order than US customers 
+- **Exploring strategies to improve underperforming region LATAM, which ranked lowest across key metrics.**
+
+
+### Marketing Team 
+- **Continue the Loyalty Program and Introduce an Exclusive Trade-In Program**
+  - By 2022, loyalty members made more purchases and spend $30 more per order than loyalty customers 
+  - Explore a trade-in program offering eligible members credit toward newer devices,  targeting key markets: US, UK, Canada, Australia, and Japan to encourage repeat purchases and device upgrades. 
+
+- **Boost Mid-Year Sales by increase promotional activities during Q2 to improve sales during historically weaker periods.** 
 
 
