@@ -45,11 +45,11 @@ This analysis evaluates FuturTech’s sales performance from 2019 to 2022 using 
   <tr>
     <td align="center" width="500">
       <strong>YoY Revenue Performance</strong>
-      <img src="images/MoM.png" width="100%">
+      <img src="images/YoY.png" width="750">
     </td>
     <td align="center" width="500">
       <strong>Quarterly Revenue Performance</strong>
-      <img src="images/quarterly.png" width="100%">
+      <img src="images/quarterly.png" width="750">
     </td>
   </tr>
 </table>
