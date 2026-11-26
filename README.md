@@ -14,12 +14,35 @@ This analysis evaluates FuturTech’s sales performance from 2019 to 2022 using 
 - **Regional Performance**: Identify underperforming markets and growth opportunities through targeted marketing and brand awareness campaigns.
 
 # Executive Summary 
+<h2 align="center">Sales Revenue Analysis (2019-2022)</h2>
+
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="500">
+      <h3>💰 Total Revenue</h3>
+      <h2>$28.12M</h2>
+    </td>
+    <td align="center" width="500">
+      <h3>🛒 Average Order Value</h3>
+      <h2>$260</h2>
+    </td>
+    <td align="center" width="500">
+      <h3>📦 Total Orders</h3>
+      <h2>108,124</h2>
+    </td>
+  </tr>
+</table>
+
+
 <p align="center">
   <img src="images/sales_revenue.png" alt="Product Pareto Chart" width="100%">
 </p>
 
 
 # Insight Deep-Dive 
+<p align="center">
+  <img src="images/MoM.png" alt="Product Pareto Chart" width="1000">
+</p>
 ## Sale Performance 
 #### Year-over-Year (YoY) Analysis
 - **Historical benchmark (2019 - 2022)**: FuturTech generated an average of $7M in annual revenue, with 27K orders and an average AOV of $254.
