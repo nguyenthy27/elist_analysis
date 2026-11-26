@@ -14,6 +14,10 @@ This analysis evaluates FuturTech’s sales performance from 2019 to 2022 using 
 - **Regional Performance**: Identify underperforming markets and growth opportunities through targeted marketing and brand awareness campaigns.
 
 # Executive Summary 
+<p align="center">
+  <img src="images/sales_revenue.png" alt="Product Pareto Chart" width="100%">
+</p>
+
 
 # Insight Deep-Dive 
 ## Sale Performance 
